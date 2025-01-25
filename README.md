@@ -9,7 +9,7 @@ Welcome to my GitHub! I build high-performance, scalable web applications with c
 
 - 🔭 I’m currently working on **My new amazing project.**
 
-- 🌱 I’m currently learning **Advanced JavaScrift**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 📫 How to reach me *[mdhridoybd514@gmail.com](mdhridoybd514@gmail.com)*
 
@@ -23,7 +23,7 @@ Welcome to my GitHub! I build high-performance, scalable web applications with c
 
 <h3 align="left">Frontend Development:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/vuejs.svg" width='40' height='40' title='vuejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
 
 <h3 align="left">Backend Development:</h3>
 
