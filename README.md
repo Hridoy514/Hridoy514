@@ -13,7 +13,7 @@ Welcome to my GitHub! I build high-performance, scalable web applications with c
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 📫 How to reach me *[LinkedIn](https://www.linkedin.com/in/hridoy514/)*
+- 📫 How to reach me *[LinkedIn](https://www.linkedin.com/in/hridoy514/)* Whatsapp: +8801746796828
 
 <h2 align="left">Skillset</h2>
 
