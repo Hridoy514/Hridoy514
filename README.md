@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co.com/hRwy1qyK/Md-Hridoy.png" alt="Banner" width="100%"/>
+
 <h1 align="center">Hello World! 👋 I'm Md-Hridoy</h1>
 
 <h5 align="center">👋 Hi there! I'm Hridoy
